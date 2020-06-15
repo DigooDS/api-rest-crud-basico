@@ -12,7 +12,7 @@ CRUD básico para cadastro de Fornecedores
 
 ---
 
-## 🔖 Sobre
+## 🔖   Sobre
 
 API REST desenvolvida para estudo de uma CRUD básica utilizando o **Entity Framework Core**, onde é possível realizar cadastros de fornecedores com as seguintes informações:
 
@@ -24,13 +24,13 @@ API REST desenvolvida para estudo de uma CRUD básica utilizando o **Entity Fram
 
 ---
 
-## 🚀 Tecnologia utilizada
+## 🚀   Tecnologia utilizada
 
 - [ASP.NET Core](https://dotnet.microsoft.com/)
 
 ---
 
-## ⚙ Para clonar o projeto
+## ⚙   Para clonar o projeto
 
 ```bash
   # clonar o projeto
@@ -41,7 +41,7 @@ API REST desenvolvida para estudo de uma CRUD básica utilizando o **Entity Fram
 ```
 ---
 
-## 💿 Para executar o backend
+## 💿   Para executar o backend
 
 - Caso utilize o Visual Studio é só clicar no botão **"Play" (irá executar no IIS Express)**;
 
