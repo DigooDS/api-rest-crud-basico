@@ -18,7 +18,7 @@ API REST desenvolvida para estudo de uma CRUD básica utilizando o **Entity Fram
 
 - **ID** (Gerado através do GUID);
 - **Nome**;
-- **Documento** (podendo ser CPF ou CNPF);
+- **Documento** (podendo ser CPF ou CNPJ);
 - **Tipo de Fornecedor** (Ex: 1 para pessoa física e 2 para pessoa jurídica);
 - **Ativo?** (Se o fornecedor está ativo ou não);
 
