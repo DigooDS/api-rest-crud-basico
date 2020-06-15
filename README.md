@@ -55,9 +55,8 @@ API REST desenvolvida para estudo de uma CRUD básica utilizando o **Entity Fram
 
 ## 📌 Importante
 
-<h1>
-  <img src="public/paraReadme_02.jpg" width="300px">
-</h1>
+<img src="public/paraReadme_02.jpg">
+
 
 Para cadastrar os IDs dos fornecedores, utilize o **Create GUID** do Microsoft Visual Studio (Tools -> Create GUID).
 
